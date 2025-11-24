@@ -1,0 +1,175 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1518444027304-0416bace8e07?auto=format&fit=crop&w=800&q=80",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "rating": 4.5,
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "category": "Wearables",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
+      "description": "Smart watch with heart rate monitor and GPS.",
+      "rating": 4.7,
+      "stock": 10
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80",
+      "description": "Comfortable running shoes for all terrains.",
+      "rating": 4.3,
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "category": "Electronics",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80",
+      "description": "High-performance gaming laptop with RGB keyboard.",
+      "rating": 4.6,
+      "stock": 8
+    },
+    {
+      "id": 5,
+      "name": "Digital Camera",
+      "category": "Photography",
+      "price": 599.99,
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "description": "Compact digital camera with 20MP sensor.",
+      "rating": 4.4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=800&q=80",
+      "description": "Portable bluetooth speaker with high-quality sound.",
+      "rating": 4.2,
+      "stock": 30
+    },
+    {
+      "id": 7,
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "price": 25.99,
+      "image": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a?auto=format&fit=crop&w=800&q=80",
+      "description": "Non-slip yoga mat for all levels.",
+      "rating": 4.1,
+      "stock": 25
+    },
+    {
+      "id": 8,
+      "name": "Electric Toothbrush",
+      "category": "Personal Care",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1588776814546-cd4b8fc503b7?auto=format&fit=crop&w=800&q=80",
+      "description": "Rechargeable electric toothbrush with soft bristles.",
+      "rating": 4.5,
+      "stock": 18
+    },
+    {
+      "id": 9,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "description": "Automatic coffee maker with programmable timer.",
+      "rating": 4.3,
+      "stock": 14
+    },
+    {
+      "id": 10,
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 699.99,
+      "image": "https://images.unsplash.com/photo-1510557880182-3b7d20e1709c?auto=format&fit=crop&w=800&q=80",
+      "description": "Latest smartphone with high-resolution display.",
+      "rating": 4.6,
+      "stock": 22
+    },
+    {
+      "id": 11,
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947?auto=format&fit=crop&w=800&q=80",
+      "description": "Durable backpack suitable for travel and daily use.",
+      "rating": 4.2,
+      "stock": 19
+    },
+    {
+      "id": 12,
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "description": "Stylish sunglasses with UV protection.",
+      "rating": 4.0,
+      "stock": 40
+    },
+    {
+      "id": 13,
+      "name": "Wireless Charger",
+      "category": "Electronics",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1504386106331-3e4e71712b38?auto=format&fit=crop&w=800&q=80",
+      "description": "Fast wireless charger compatible with most smartphones.",
+      "rating": 4.4,
+      "stock": 27
+    },
+    {
+      "id": 14,
+      "name": "Fitness Tracker",
+      "category": "Wearables",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1519861152401-879b9ce3cb8a?auto=format&fit=crop&w=800&q=80",
+      "description": "Fitness tracker with heart rate and sleep monitoring.",
+      "rating": 4.3,
+      "stock": 21
+    },
+    {
+      "id": 15,
+      "name": "Desk Lamp",
+      "category": "Home Decor",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+      "description": "Adjustable desk lamp with LED lighting.",
+      "rating": 4.1,
+      "stock": 16
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "dennis",
+      "password": "password123",
+      "email": "dennis@example.com"
+    },
+    {
+      "id": 2,
+      "username": "faith",
+      "password": "faithpass",
+      "email": "faith@example.com"
+    },
+    {
+      "id": "614f",
+      "username": "Dennis",
+      "email": "deninokaranja@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "orders": []
+}
